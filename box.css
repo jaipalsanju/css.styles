@@ -1,0 +1,59 @@
+.lol{
+    background-color: rgb(107, 105, 109); width: 200px; height: 180px; border: 3px solid black; float: left; padding: 30px; border-radius: 3px; background-image: url(vk.webp); background-size: cover; 
+}
+.ab{
+    background-color: rgb(43, 168, 18); width: 200px; height: 180px; border: 3px solid black; float: right; padding: 30px; border-radius: 3px; background-image: url(abd.jpeg); background-size: cover;
+
+}
+.ac{
+    
+    background-color: rgb(220, 199, 11); width: 200px; height: 180px; border: 3px solid black; margin:  20px auto; padding: 30px; border-radius: 3px;  background-image:url(thumb.jpeg) ;background-size: cover;
+}
+.ad{
+    
+    background-color: rgb(209, 200, 212); width: 200px; height: 180px; border: 3px solid black; float: left; padding: 30px; border-radius: 3px; background-image: url(sanju.jpg); background-size: cover;
+}
+.ae{
+    
+    background-color: blue; width: 200px; height: 180px; border: 3px solid black; float: right; padding: 30px; border-radius: 3px; background-image: url(sraina.jpeg);background-size: cover;
+}
+.af{
+    
+    background-color:darkorange; width: 200px; height: 180px; border: 3px solid black; margin: 20px auto; padding: 30px; border-radius: 3px; background-image: url(rohith.jpeg); background-size: cover;
+}
+.ag{
+    
+    background-color: lightskyblue; width: 200px; height: 180px; border: 3px solid black; float: left; padding: 30px; border-radius: 3px;background-image: url(sachin.jpeg); background-size: cover;
+}
+.ah{
+    
+    background-color: black; width: 200px; height: 180px; border: 3px solid black; float: right; padding: 30px; border-radius: 3px; background-image: url(sangakkara.jpeg);background-size: cover;
+}
+.ai{
+    
+    background-color:plum; width: 200px; height: 180px; border: 3px solid black; margin: 20px auto; padding: 30px; border-radius: 3px; background-image: url(shane.jpeg);background-size: cover;
+}
+.aj{
+    
+    background-color:steelblue; width: 200px; height: 180px; border: 3px solid black; float: left; padding: 30px; border-radius: 3px;background-image: url(shoaib.jpeg);background-size: cover;
+}
+.ak{
+    
+    background-color:red; width: 200px; height: 180px; border: 3px solid black; float: right; padding: 30px; border-radius: 3px;background-image: url(sky.jpeg);background-size: cover;
+}
+.al{
+    
+    background-color: gray; width: 200px; height: 180px; border: 3px solid black; margin: 20px auto; padding: 30px; border-radius: 3px;background-image: url(yusuf.jpeg);background-size: cover;
+}
+.am{
+    
+    background-color: yellowgreen; width: 200px; height: 180px; border: 3px solid black; float: left; padding: 30px; border-radius: 3px; background-image: url(yuvraj.jpg);background-size: cover;
+}
+.an{
+    
+    background-color: purple; width: 200px; height: 180px; border: 3px solid black; float: right; padding: 30px; border-radius: 3px;background-image: url(smrithi.jpeg);background-size: cover;
+}
+.ao{
+    
+    background-color: rgb(94, 52, 56); width: 200px; height: 180px; border: 3px solid black; margin: 20px auto; padding: 30px; border-radius: 3px;background-image: url(harleen.jpeg);background-size: cover;
+}
